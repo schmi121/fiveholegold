@@ -11,7 +11,7 @@ body {
     display: flex;
     flex-direction: column;
     text-align: center;
-    padding-top: 10%;
+    padding-top: 1%;
 }
 
 .gaaTitle {
@@ -20,12 +20,16 @@ body {
 
 .goalsAllowed {
     flex: auto;
-    padding-top: 3%;
+}
+
+.videoTitle {
+    color: yellow;
+    padding: 2%;
 }
 
 .recentVideo {
     display: flex;
     justify-content: center;
-    padding-top: 8%;
+    padding-bottom: 2%;
 }
 
