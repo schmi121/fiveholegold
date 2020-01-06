@@ -3,6 +3,10 @@ html, body {
     margin: 0;
 }
 
+body {
+    background-image: url("CFjU41M.jpg");
+}
+
 .gaa {
     display: flex;
     flex-direction: column;
@@ -24,3 +28,4 @@ html, body {
     justify-content: center;
     padding-top: 8%;
 }
+
