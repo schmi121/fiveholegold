@@ -1,0 +1,26 @@
+html, body {
+    width: 100%;
+    margin: 0;
+}
+
+.gaa {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 10%;
+}
+
+.gaaTitle {
+    flex: auto;
+}
+
+.goalsAllowed {
+    flex: auto;
+    padding-top: 3%;
+}
+
+.recentVideo {
+    display: flex;
+    justify-content: center;
+    padding-top: 8%;
+}
